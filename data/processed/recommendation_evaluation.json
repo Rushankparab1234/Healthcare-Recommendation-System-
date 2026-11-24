@@ -1,0 +1,105 @@
+{
+  "methodology": "Synthetic provider-preference matching only; not clinical relevance or health outcomes.",
+  "k": 5,
+  "catalog_size": 32,
+  "cases": [
+    {
+      "case": {
+        "specialty": "Cardiology",
+        "location": "Mumbai",
+        "consultation_type": "video"
+      },
+      "relevant_count": 2,
+      "baseline": {
+        "precision_at_5": 0.0,
+        "recall_at_5": 0.0,
+        "ndcg_at_5": 0.0,
+        "map_at_5": 0.0
+      },
+      "hybrid": {
+        "precision_at_5": 0.4,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 1.0,
+        "map_at_5": 1.0
+      }
+    },
+    {
+      "case": {
+        "specialty": "Dermatology",
+        "location": "Bengaluru",
+        "consultation_type": "in-person"
+      },
+      "relevant_count": 2,
+      "baseline": {
+        "precision_at_5": 0.4,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 1.0,
+        "map_at_5": 1.0
+      },
+      "hybrid": {
+        "precision_at_5": 0.4,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 1.0,
+        "map_at_5": 1.0
+      }
+    },
+    {
+      "case": {
+        "specialty": "General Medicine",
+        "location": "Mumbai",
+        "consultation_type": "in-person"
+      },
+      "relevant_count": 2,
+      "baseline": {
+        "precision_at_5": 0.2,
+        "recall_at_5": 0.5,
+        "ndcg_at_5": 0.23719771276929622,
+        "map_at_5": 0.1
+      },
+      "hybrid": {
+        "precision_at_5": 0.4,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 1.0,
+        "map_at_5": 1.0
+      }
+    },
+    {
+      "case": {
+        "specialty": "Pulmonology",
+        "location": "Bengaluru",
+        "consultation_type": "video"
+      },
+      "relevant_count": 2,
+      "baseline": {
+        "precision_at_5": 0.4,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 0.5706417189553201,
+        "map_at_5": 0.41666666666666663
+      },
+      "hybrid": {
+        "precision_at_5": 0.4,
+        "recall_at_5": 1.0,
+        "ndcg_at_5": 1.0,
+        "map_at_5": 1.0
+      }
+    }
+  ],
+  "aggregate": {
+    "baseline": {
+      "precision_at_5": 0.25,
+      "recall_at_5": 0.625,
+      "ndcg_at_5": 0.452,
+      "map_at_5": 0.3792
+    },
+    "hybrid": {
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "ndcg_at_5": 1.0,
+      "map_at_5": 1.0
+    }
+  },
+  "coverage_at_5": {
+    "baseline": 0.625,
+    "hybrid": 0.625
+  }
+}

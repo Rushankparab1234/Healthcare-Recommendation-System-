@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "synthetic": true,
+  "provider_count": 30,
+  "patient_profile_count": 20,
+  "clinical_ground_truth": false
+}

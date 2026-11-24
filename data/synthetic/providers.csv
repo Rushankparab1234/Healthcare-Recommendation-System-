@@ -1,0 +1,31 @@
+provider_id,name,specialty,location,consultation_type,is_demo
+synthetic-provider-000,Synthetic General Medicine Practice 0,General Medicine,Mumbai,in-person,True
+synthetic-provider-001,Synthetic Cardiology Practice 1,Cardiology,Pune,video,True
+synthetic-provider-002,Synthetic Neurology Practice 2,Neurology,Bengaluru,in-person,True
+synthetic-provider-003,Synthetic Pulmonology Practice 3,Pulmonology,Mumbai,video,True
+synthetic-provider-004,Synthetic Dermatology Practice 4,Dermatology,Pune,in-person,True
+synthetic-provider-005,Synthetic Orthopedics Practice 5,Orthopedics,Bengaluru,video,True
+synthetic-provider-006,Synthetic General Medicine Practice 6,General Medicine,Mumbai,in-person,True
+synthetic-provider-007,Synthetic Cardiology Practice 7,Cardiology,Pune,video,True
+synthetic-provider-008,Synthetic Neurology Practice 8,Neurology,Bengaluru,in-person,True
+synthetic-provider-009,Synthetic Pulmonology Practice 9,Pulmonology,Mumbai,video,True
+synthetic-provider-010,Synthetic Dermatology Practice 10,Dermatology,Pune,in-person,True
+synthetic-provider-011,Synthetic Orthopedics Practice 11,Orthopedics,Bengaluru,video,True
+synthetic-provider-012,Synthetic General Medicine Practice 12,General Medicine,Mumbai,in-person,True
+synthetic-provider-013,Synthetic Cardiology Practice 13,Cardiology,Pune,video,True
+synthetic-provider-014,Synthetic Neurology Practice 14,Neurology,Bengaluru,in-person,True
+synthetic-provider-015,Synthetic Pulmonology Practice 15,Pulmonology,Mumbai,video,True
+synthetic-provider-016,Synthetic Dermatology Practice 16,Dermatology,Pune,in-person,True
+synthetic-provider-017,Synthetic Orthopedics Practice 17,Orthopedics,Bengaluru,video,True
+synthetic-provider-018,Synthetic General Medicine Practice 18,General Medicine,Mumbai,in-person,True
+synthetic-provider-019,Synthetic Cardiology Practice 19,Cardiology,Pune,video,True
+synthetic-provider-020,Synthetic Neurology Practice 20,Neurology,Bengaluru,in-person,True
+synthetic-provider-021,Synthetic Pulmonology Practice 21,Pulmonology,Mumbai,video,True
+synthetic-provider-022,Synthetic Dermatology Practice 22,Dermatology,Pune,in-person,True
+synthetic-provider-023,Synthetic Orthopedics Practice 23,Orthopedics,Bengaluru,video,True
+synthetic-provider-024,Synthetic General Medicine Practice 24,General Medicine,Mumbai,in-person,True
+synthetic-provider-025,Synthetic Cardiology Practice 25,Cardiology,Pune,video,True
+synthetic-provider-026,Synthetic Neurology Practice 26,Neurology,Bengaluru,in-person,True
+synthetic-provider-027,Synthetic Pulmonology Practice 27,Pulmonology,Mumbai,video,True
+synthetic-provider-028,Synthetic Dermatology Practice 28,Dermatology,Pune,in-person,True
+synthetic-provider-029,Synthetic Orthopedics Practice 29,Orthopedics,Bengaluru,video,True

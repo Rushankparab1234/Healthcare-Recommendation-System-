@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "documents": [
+    {
+      "id": "medlineplus-cough",
+      "title": "Cough",
+      "category": "Respiratory health",
+      "source_name": "MedlinePlus, U.S. National Library of Medicine",
+      "source_url": "https://medlineplus.gov/cough.html",
+      "content": "MedlinePlus describes coughing as a reflex that helps keep the throat and airways clear. Acute coughs begin suddenly and usually last no more than 2 to 3 weeks. Coughs lasting longer than 2 to 3 weeks are described as chronic. Many different causes are possible, so this general information cannot determine the cause for an individual.",
+      "reviewed_at": "2026-11-21",
+      "chunks": [
+        "MedlinePlus describes coughing as a reflex that helps keep the throat and airways clear. Acute coughs begin suddenly and usually last no more than 2 to 3 weeks. Coughs lasting longer than 2 to 3 weeks are described as chronic. Many different causes are possible, so this general information cannot determine the cause for an individual."
+      ]
+    },
+    {
+      "id": "medlineplus-headache",
+      "title": "Headache",
+      "category": "Neurological health",
+      "source_name": "MedlinePlus, U.S. National Library of Medicine",
+      "source_url": "https://medlineplus.gov/headache.html",
+      "content": "MedlinePlus explains that headaches are common and describes tension headaches as the most common type. Other types include migraine, cluster, and sinus headaches. MedlinePlus advises seeking medical help right away for a sudden severe headache, a headache after a blow to the head, or a headache with a stiff neck, fever, confusion, loss of consciousness, or eye or ear pain.",
+      "reviewed_at": "2026-11-21",
+      "chunks": [
+        "MedlinePlus explains that headaches are common and describes tension headaches as the most common type. Other types include migraine, cluster, and sinus headaches. MedlinePlus advises seeking medical help right away for a sudden severe headache, a headache after a blow to the head, or a headache with a stiff neck, fever, confusion, loss of consciousness, or eye or ear pain."
+      ]
+    },
+    {
+      "id": "medlineplus-chest-pain",
+      "title": "Chest Pain",
+      "category": "Heart and urgent care",
+      "source_name": "MedlinePlus, U.S. National Library of Medicine",
+      "source_url": "https://medlineplus.gov/chestpain.html",
+      "content": "MedlinePlus notes that chest pain can have many causes and does not always mean a heart attack; some causes can be serious. It advises immediate medical care for chest pain that does not go away, crushing pain or pressure, or chest pain with nausea, sweating, dizziness, or shortness of breath. This information is not a way to determine the cause of an individual's chest pain.",
+      "reviewed_at": "2026-11-21",
+      "chunks": [
+        "MedlinePlus notes that chest pain can have many causes and does not always mean a heart attack; some causes can be serious. It advises immediate medical care for chest pain that does not go away, crushing pain or pressure, or chest pain with nausea, sweating, dizziness, or shortness of breath. This information is not a way to determine the cause of an individual's chest pain."
+      ]
+    }
+  ]
+}
